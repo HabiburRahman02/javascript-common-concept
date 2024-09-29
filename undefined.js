@@ -48,3 +48,6 @@ console.log(fifth[0], fifth[1], fifth[6]);
 // undefined er typeof undefined
 // null er typeof object
 
+// kuno kicu set korar dorkar hole seta ke null hisebe korbo undefined na
+
+
